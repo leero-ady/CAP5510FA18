@@ -2,36 +2,23 @@
 
 
 ### Project Title
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Protein Secondary Structure Prediction with Long Short Term Memory Networks
 
 ### Team Members
-Aditya Nalluri UFID: 64153915, Sai Madhav Kasam UFID: 17351683
+Aditya Nalluri UFID: 64153915
+Sai Madhav Kasam UFID: 17351683
 
- 
-```markdown
-Syntax highlighted code block
+### Abstract:
+Prediction of protein secondary structure from the amino acid sequence is a classical bioinformatics problem.
+Common methods use feed forward neural networks or SVM’s combined with a sliding window, as these models
+does not naturally handle sequential data. Recurrent neural networks are an generalization of the feed forward
+neural network that naturally handle sequential data. We use a bidirectional recurrent neural network with long
+short term memory cells for prediction of secondary structure and evaluate using the Protein Data Bank dataset.
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
+### Plan of action:
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/leero-ady/CAP5510FA18/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+### References:
+Bordoloi H., Sarma K.K. (2012) Protein Structure Prediction Using Multiple Artificial Neural Network Classifier. In: Patnaik S., Yang YM. (eds) Soft Computing Techniques in Vision Science. Studies in Computational Intelligence, vol 395. Springer, Berlin, Heidelberg.
+https://arxiv.org/abs/1412.7828v2
