@@ -1,10 +1,10 @@
 ## CAP5510 - Bioinformatics Project Proposal
 
 
-### Project Title
+### Project Title:
 Protein Secondary Structure Prediction with Long Short Term Memory Networks
 
-### Team Members
+### Team Members:
 Aditya Nalluri UFID: 64153915\
 Sai Madhav Kasam UFID: 17351683
 
@@ -17,20 +17,16 @@ short term memory cells for prediction of secondary structure and evaluate using
 
 
 ### Plan of action:
-- In the project, six proteins that belongs to different secondary categories would be considered.  
-- Primary amino acid codes of these proteins from protein data bank will be collected.
-- Encode each primary sequence and DSSP codes. 
-- Train the neural network using encoded codes.
-- The secondary structure of these proteins is evaluated based on the tendencies of the amino acids to form different secondary structures.   
-- The DSSP codes of the proteins will be fed as inputs for the classifier to classify the proteins into the basic tertiary topologies.
-
+- Implement 
 
 
 ### Work load:
-The work load will be divided among all of us equally and three of us will participate in all aspects of the project . 
+The work load will be divided among the two of us equally in all aspects like Implementation and 
 
 ### References:
-[1] Bordoloi H., Sarma K.K. (2012) Protein Structure Prediction Using Multiple Artificial Neural Network Classifier. In: Patnaik S., Yang YM. (eds) Soft Computing Techniques in Vision Science. Studies in Computational Intelligence, vol 395. Springer, Berlin, Heidelberg.\
-Protein secondary structure prediction with long short term memory networks
-[2] SØNDERBY, S. K., AND WINTHER, O. Protein secondary structure prediction with long short
-term memory networks. arXiv preprint arXiv:1412.7828 (2014).
+[1] SØNDERBY, S. K., AND WINTHER, O. Protein secondary structure prediction with long short
+term memory networks. arXiv preprint arXiv:1412.7828 (2014). \
+[2] Bordoloi H., Sarma K.K. (2012) Protein Structure Prediction Using Multiple Artificial Neural Network Classifier. In: Patnaik S., Yang [3] YM. (eds) Soft Computing Techniques in Vision Science. Studies in Computational Intelligence, vol 395. Springer, Berlin, Heidelberg.\
+Jian Zhou, Olga G. Troyanskaya Deep Supervised and Convolutional Generative Stochastic Network for Protein Secondary Structure Prediction.
+arXiv:1403.134 
+
