@@ -1,13 +1,13 @@
-## Welcome to GitHub Pages
+## CAP5510 - Bioinformatics Project Proposal
 
-You can use the [editor on GitHub](https://github.com/leero-ady/CAP5510FA18/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
+### Project Title
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
+### Team Members
+Aditya Nalluri UFID: 64153915, Sai Madhav Kasam UFID: 17351683
+
+ 
 ```markdown
 Syntax highlighted code block
 
