@@ -18,11 +18,14 @@ short term memory cells for prediction of secondary structure and evaluate using
 
 
 ### Plan of action:
-- Implement 
-
+Understanding the paper and do some background work on implementing Neural Networks.\
+Primary amino acids sequences of proteins would be collected from Protein Data Bank, WWPDB.\
+Implement the Neural Network with Long Short Term cells.\
+Train the neural network using Primary sequences.\
+The model is evaluted based on the Q8 class ouput predictions.\
 
 ### Work load:
-The work load will be divided among the three of us equally in all aspects like Implementation and reading research papers.
+The work load will be divided among the three of us equally in all aspects like reading research papers and Implementation.\
 
 ### References:
 [1] SØNDERBY, S. K., AND WINTHER, O. Protein secondary structure prediction with long short
