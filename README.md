@@ -6,7 +6,8 @@ Protein Secondary Structure Prediction with Long Short Term Memory Networks
 
 ### Team Members:
 Aditya Nalluri UFID: 64153915\
-Sai Madhav Kasam UFID: 17351683
+Sai Madhav Kasam UFID: 17351683\
+Harish Jayanti UFID: 11552570
 
 ### Abstract:
 Prediction of protein secondary structure from the amino acid sequence is a classical bioinformatics problem.
