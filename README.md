@@ -22,7 +22,7 @@ short term memory cells for prediction of secondary structure and evaluate using
 
 
 ### Work load:
-The work load will be divided among the two of us equally in all aspects like Implementation and reading research papers.
+The work load will be divided among the three of us equally in all aspects like Implementation and reading research papers.
 
 ### References:
 [1] SØNDERBY, S. K., AND WINTHER, O. Protein secondary structure prediction with long short
